@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,jm-comic2
 DOMAIN,hl03.co
 DOMAIN,155.fun
 DOMAIN-SUFFIX,zztt72.com
-IP-CIDR,17.248.165.14/32
+IP-CIDR,17.248.165.14/32,no-resolve
 DOMAIN,img2.hnlanzhou.com
 DOMAIN-SUFFIX,mncks.buzz
 DOMAIN-KEYWORD,sex-studentki
