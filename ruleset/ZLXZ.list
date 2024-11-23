@@ -12,6 +12,6 @@ DOMAIN,ad.12306.cn,DIRECT
 DOMAIN,sdkapp.uve.weibo.com,DIRECT
 DOMAIN-SUFFIX,snssdk.com,DIRECT
 DOMAIN-SUFFIX,cc.m.jd.com,DIRECT
-DOMAIN-SUFFIX,api1.shengjianapp.top,DIRECT
+DOMAIN-SUFFIX,shengjianapp.top,DIRECT
 #EMBY服务
 DOMAIN-SUFFIX,nanflix.net,DIRECT
