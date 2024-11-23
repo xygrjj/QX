@@ -1,0 +1,17 @@
+#图层插件服务地址
+IP-CIDR,149.88.82.119/32,DIRECT,no-resolve
+#tg转圈
+IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
+DOMAIN-SUFFIX,kelee.one,DIRECT
+DOMAIN-SUFFIX,gitlab.net,DIRECT
+DOMAIN-SUFFIX,gitlab.com,DIRECT
+DOMAIN-SUFFIX,follow.is,DIRECT
+DOMAIN-SUFFIX,1password.com,DIRECT
+DOMAIN-SUFFIX,fileball.app,DIRECT
+DOMAIN,ad.12306.cn,DIRECT
+DOMAIN,sdkapp.uve.weibo.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,cc.m.jd.com,DIRECT
+DOMAIN-SUFFIX,api1.shengjianapp.top,DIRECT
+#EMBY服务
+DOMAIN-SUFFIX,nanflix.net,DIRECT
